@@ -21,3 +21,4 @@ ON rental.rental_id = customer.customer_id
 
 
 
+
